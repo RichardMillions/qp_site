@@ -1,0 +1,6 @@
+site_name: "QP's Home"
+
+site_url: "https://richardmillions.github.io/"
+
+theme:
+  name: material
